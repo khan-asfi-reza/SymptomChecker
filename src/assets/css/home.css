@@ -1,0 +1,11 @@
+
+.terms-condition{
+    text-decoration: none;
+    font-weight: bold;
+    color: #194970;
+}
+
+.terms-condition:hover{
+    color: #210370;
+    transform: scale(1.04);
+}
