@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SympomChecker/static/css/main.37141814.chunk.css",
+    "main.js": "/SympomChecker/static/js/main.9c2b22dd.chunk.js",
+    "main.js.map": "/SympomChecker/static/js/main.9c2b22dd.chunk.js.map",
+    "runtime-main.js": "/SympomChecker/static/js/runtime-main.f5bebc3c.js",
+    "runtime-main.js.map": "/SympomChecker/static/js/runtime-main.f5bebc3c.js.map",
+    "static/js/2.b6d8baef.chunk.js": "/SympomChecker/static/js/2.b6d8baef.chunk.js",
+    "static/js/2.b6d8baef.chunk.js.map": "/SympomChecker/static/js/2.b6d8baef.chunk.js.map",
+    "index.html": "/SympomChecker/index.html",
+    "static/css/main.37141814.chunk.css.map": "/SympomChecker/static/css/main.37141814.chunk.css.map",
+    "static/js/2.b6d8baef.chunk.js.LICENSE.txt": "/SympomChecker/static/js/2.b6d8baef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5bebc3c.js",
+    "static/js/2.b6d8baef.chunk.js",
+    "static/css/main.37141814.chunk.css",
+    "static/js/main.9c2b22dd.chunk.js"
+  ]
+}
